@@ -1,3 +1,9 @@
+#if 0
+#!/bin/bash
+gcc $0
+./a.out
+#endif
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
