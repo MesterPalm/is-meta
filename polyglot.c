@@ -1,6 +1,7 @@
 #include <stdio.h>
 #if 0
-"echo" "Hellow, world!"
+#!/bin/bash
+"echo" "Hello, world!"
 "exit"
 print("Hello, world!")
 """
